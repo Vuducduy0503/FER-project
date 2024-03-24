@@ -4,8 +4,8 @@ This project is an e-commerce website developed using ReactJS. It provides a pla
 
 
 ## Contributor
-- Đàm Quang Chiến
-- Đào Quang Khải
+-Vũ Đức Duy
+-Vương Chí Đức
 ## Technologies Used
 
 The project utilizes the following technologies and tools:
